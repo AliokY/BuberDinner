@@ -1,0 +1,17 @@
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.deps.json
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Application.pdb
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.csproj.CopyComplete
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\refint\BuberDinner.Infrastructure.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\BuberDinner.Infrastructure.pdb
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net7.0\ref\BuberDinner.Infrastructure.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\Training\CleanArchitectureDDDFromScratch\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net7.0\BuberDinner.Domain.pdb

@@ -1,0 +1,10 @@
+@host=http://localhost:5148
+
+POST {{host}}/auth/login
+Content-Type: application/json
+
+{
+    "email": "amichai@mantinband.com",
+    "password": "Amico1232!"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYTZkYTcyOC0wZjYyLTQ1MDMtODAwMi1lNGEzOTQxODllNDYiLCJnaXZlbl9uYW1lIjoiQW1pY2hhaSIsImZhbWlseV9uYW1lIjoiTWFudGluYmFuZCIsImp0aSI6Ijg5MjYzZjdiLWUyMTItNDk5OS04NTI5LTk5OTM5MmRmNmMzNSIsImV4cCI6MTY5NDcwMTY4OSwiaXNzIjoiQnViZXJEaW5uZXIifQ.0T68RtzOO0LTl6lzD9ItJ2cWJVHL3YsxJ4yGYaltgNU
